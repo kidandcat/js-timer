@@ -1,4 +1,4 @@
-        var timer = (function(){
+        var Timer = (function(){
           var obj = {};
           var begin = null;
           var finish = null;
