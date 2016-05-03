@@ -3,9 +3,9 @@ Javascript simple timer
 
 ## Usage
 
-      timer.start()
+      Timer.start()
       
-      var time = timer.stop();
+      var time = Timer.stop();
 
 ## License
 
